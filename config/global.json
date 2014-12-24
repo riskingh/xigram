@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "_default": {
+            "link": "xigram"
+        }, 
+        "xigram": {
+            "applicationId": "vlnkSrkpndWdgfmKXSu1YkgRkkScY13xtmRkRf4f", 
+            "masterKey": "YrxpWWPJyUJKnxZdBHZpjP9XQ2UUx3u3s25Si5Jq"
+        }
+    }
+}
